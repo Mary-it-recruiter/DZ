@@ -1,0 +1,15 @@
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).csproj.AssemblyReference.cache
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).AssemblyInfoInputs.cache
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).AssemblyInfo.cs
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).csproj.CoreCompileInputs.cache
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\bin\Debug\net6.0\DZ(csharp1).exe
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\bin\Debug\net6.0\DZ(csharp1).deps.json
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\bin\Debug\net6.0\DZ(csharp1).runtimeconfig.json
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\bin\Debug\net6.0\DZ(csharp1).dll
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\bin\Debug\net6.0\DZ(csharp1).pdb
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).dll
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\refint\DZ(csharp1).dll
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).pdb
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\DZ(csharp1).genruntimeconfig.cache
+C:\Users\mivanova\Desktop\Гикбрейнс Иванова М\Projects\DZ(csharp1)\obj\Debug\net6.0\ref\DZ(csharp1).dll
